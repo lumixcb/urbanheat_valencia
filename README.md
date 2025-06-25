@@ -56,16 +56,18 @@ UrbanHeat Valencia is an interactive web application that identifies urban heat-
 ## ⚙️ Installation & Run
 
 1. **Clone the repo**
-2. 
+
 git clone https://github.com/lumixcb/urbanheat_valencia.git
 cd urbanheat_valencia
 
 3. **Create & activate venv**
 
 python -m venv venv
-# Windows
+
+Windows:
 venv\Scripts\activate
-# macOS/Linux
+
+macOS/Linux:
 source venv/bin/activate
 
 4. **Install dependencies**
